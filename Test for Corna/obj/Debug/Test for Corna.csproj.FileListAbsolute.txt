@@ -1,0 +1,6 @@
+C:\Users\markm\source\repos\Test for Corna\Test for Corna\bin\Debug\Test for Corna.exe.config
+C:\Users\markm\source\repos\Test for Corna\Test for Corna\bin\Debug\Test for Corna.exe
+C:\Users\markm\source\repos\Test for Corna\Test for Corna\bin\Debug\Test for Corna.pdb
+C:\Users\markm\source\repos\Test for Corna\Test for Corna\obj\Debug\Test for Corna.csprojAssemblyReference.cache
+C:\Users\markm\source\repos\Test for Corna\Test for Corna\obj\Debug\Test for Corna.exe
+C:\Users\markm\source\repos\Test for Corna\Test for Corna\obj\Debug\Test for Corna.pdb
